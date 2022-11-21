@@ -1,1 +1,1 @@
-## Python 문법 특강
+## Python 문법 강의
